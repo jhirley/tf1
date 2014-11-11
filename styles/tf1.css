@@ -1,0 +1,33 @@
+header{
+    background: Blue;
+    height:120px;
+    border-radius: 5%;
+    position:fixed;
+    margin-bottom: 10px;
+}
+.left{
+    background: pink;
+    height:120px;
+    width:50px;
+    border-radius: 5%;
+    float:left;
+    margin-bottom: 10px;
+    
+}
+.right{
+    background: pink;
+    height:120px;
+    width:50px;
+    border-radius: 5%;
+    float:right;
+    margin-bottom: 10px;
+    
+}
+#footer
+{
+    background: Blue;
+    height:20px;
+    border-radius: 5%;
+    clear:both;
+    
+}
